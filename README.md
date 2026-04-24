@@ -37,18 +37,7 @@ Soy desarrollador de software apasionado por construir aplicaciones robustas y b
 
 ---
 
-## 📁 Proyectos
 
-### 🍽️ [restaurante-backend](https://github.com/Marcos-Argel/restaurante-backend)
-Backend del sistema de restaurante desarrollado con Java y Spring Boot.
-
-### 🌐 [restaurante-frontend](https://github.com/Marcos-Argel/restaurante-frontend)
-Interfaz de usuario del sistema de restaurante con JavaScript.
-
-### 📚 [BIBLIOTECA](https://github.com/Marcos-Argel/BIBLIOTECA)
-Sistema de gestión de biblioteca desarrollado en Java.
-
----
 
 ## 📫 Contacto
 ¡Estoy abierto a colaborar en proyectos!
