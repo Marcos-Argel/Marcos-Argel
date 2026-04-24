@@ -29,9 +29,6 @@ Soy desarrollador de software apasionado por construir aplicaciones robustas y b
 ## 🚀 Intereses
 
 - ☁️ Enfocado en la nube
-- 🔄 Automatización con n8n
-- ⚙️ Automatización de servidores
-- 🐳 Contenedores y tecnologías DevOps
 
 ---
 
