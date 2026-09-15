@@ -44,7 +44,7 @@ Soy desarrollador de software apasionado por construir aplicaciones robustas y b
 
 ## 🚀 Intereses
 
-- ☁️ Enfocado en la nube
+- ☁️ Enfocado en la nube y en ciberseguridad
 
 ---
 
@@ -52,3 +52,4 @@ Soy desarrollador de software apasionado por construir aplicaciones robustas y b
 
 ## 📫 Contacto
 ¡Estoy abierto a colaborar en proyectos!
+*57 3150080635
