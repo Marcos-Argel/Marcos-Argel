@@ -30,7 +30,7 @@ Soy desarrollador de software apasionado por construir aplicaciones robustas y b
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Aiven](https://img.shields.io/badge/Aiven-FF3855?style=for-the-badge&logo=aiven&logoColor=white)
+![Aiven](https://img.shields.io/badge/Aiven-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 
 ## 🖥️ Sistemas Operativos
 
